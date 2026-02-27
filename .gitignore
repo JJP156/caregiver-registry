@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Vite temp configs
+vite.config.*.timestamp-*.mjs
