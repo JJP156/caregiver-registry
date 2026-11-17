@@ -157,3 +157,4 @@ npm run build
 - Base de datos y autenticación con Supabase
 
 Construido con ❤️ para el cuidado domiciliario
+.
